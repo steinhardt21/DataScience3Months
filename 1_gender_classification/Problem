@@ -2,4 +2,4 @@ This is the code for the gender classification. The code uses the scikit-learn m
 small dataset of body metrics (height, width, and shoe size) labeled male or female.
 Then we can predict the gender of someone given a novel set of body metrics.
 
-Complete explanation: https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html 
+Complete explanation: https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn#
