@@ -1,0 +1,5 @@
+A basic implementation of a recommendation system. In brief, it can be collaborative or content-based or both.
+In this project, the system will be both. It will be used an interesting tool:
+
+LightFM - it is a Python implementation of a number of popular recommendation algorithms for both 
+          implicit and explicit feedback.
